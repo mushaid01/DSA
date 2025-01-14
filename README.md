@@ -1,5 +1,3 @@
-Here’s a detailed and visually engaging README template for your DSA repository:
-
 ---
 
 # 🌟 Data Structures & Algorithms Practice 🚀  
