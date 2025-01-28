@@ -36,7 +36,7 @@ Welcome to the **ultimate hub** for sharpening your problem-solving skills in **
 
 1. **Clone this Repository**  
    ```bash
-   git clone https://github.com/mushaid/DSA.git
+   git clone https://github.com/mushaid01/DSA.git
    cd DSA
    ```
 2. **Explore Topics**  
@@ -75,8 +75,8 @@ We welcome contributions! Check the [CONTRIBUTING.md](CONTRIBUTING.md) file for 
 ## 📬 Contact  
 
 💬 Have questions or suggestions? Feel free to reach out!  
-- **Email**: your-email@example.com  
-- **GitHub Issues**: Open an [issue](https://github.com/mushaid/DSA/issues).  
+- **Email**: mir786mushaid@gmail.com  
+- **GitHub Issues**: Open an [issue](https://github.com/mushaid01/DSA/issues).  
 
 ---
 
